@@ -13,10 +13,13 @@ My journey through learning about data science and machine learning libraries
   9. Stats models
 
 #Topics covered  
-  1. Linear Regression
-  2. Logistic Regression
-  3. K Nearest Neighbours
-  4. Decsion trees and random forests
-  5. Support Vector Machines
-  6. K Means Clustering
-  7. Principal Component analysis
+  1. Basics of numpy pandas
+  2. basic visualisation libraries(Matplotlib and seaborn)
+  3. plotly and cufflinks
+  4. Linear Regression
+  5. Logistic Regression
+  6. K Nearest Neighbours
+  7. Decsion trees and random forests
+  8. Support Vector Machines
+  9. K Means Clustering
+  10. Principal Component analysis
