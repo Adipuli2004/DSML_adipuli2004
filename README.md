@@ -1,7 +1,7 @@
 # DSML_adipuli
 My journey through learning about data science and machine learning libraries
 
-#Libraries used
+# Libraries used
   1. Numpy
   2. Pandas
   3. Matplotlib
@@ -12,7 +12,7 @@ My journey through learning about data science and machine learning libraries
   8. Sci kit learn
   9. Stats models
 
-#Topics covered  
+# Topics covered  
   1. Basics of numpy pandas
   2. basic visualisation libraries(Matplotlib and seaborn)
   3. plotly and cufflinks
